@@ -1,6 +1,3 @@
-Certainly! Here's a more concise, basic README.md for your project:
-
-```markdown
 # Langchain Demo with Gemini
 
 A simple chatbot using Langchain, Google's Gemini Pro, and Streamlit.
